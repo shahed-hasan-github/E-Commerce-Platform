@@ -1,6 +1,4 @@
-Certainly! Creating a README file for an e-commerce website on GitHub is essential for providing clear instructions and documentation. Here's a basic template you can use:
 
----
 
 ## Features
 
