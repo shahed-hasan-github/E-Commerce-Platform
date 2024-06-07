@@ -5,7 +5,7 @@
 # E-Commerce Platform
 
 ## Overview
-E-Commerce project is an all-in-one e-commerce platform designed to provide a seamless shopping experience. It features a comprehensive product catalog with detailed descriptions, allowing users to make informed purchasing decisions. The platform supports shopping cart functionality, user authentication, and registration to ensure secure transactions.
+It is an all-in-one e-commerce platform designed to provide a seamless shopping experience. It features a comprehensive product catalog with detailed descriptions, allowing users to make informed purchasing decisions. The platform supports shopping cart functionality, user authentication, and registration to ensure secure transactions.
 
 ## Key Features
 - **Product Catalog**: A rich and detailed product catalog that showcases a wide range of items.
