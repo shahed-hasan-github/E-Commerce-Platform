@@ -18,6 +18,4 @@ It is an all-in-one e-commerce platform designed to provide a seamless shopping 
 ## Goals
 Our goal is to create a user-friendly e-commerce platform that caters to both buyers and sellers. We aim to provide a robust infrastructure that supports growth and scalability while maintaining high standards of security and performance.
 
----
 
-Feel free to customize this description to better fit your project's specifics or add any additional details you think are important. Good luck with your GitHub project! 🚀
