@@ -7,7 +7,7 @@ const limiter = new RateLimit({
   store: new RedisStore({
     client: redis,
     resetExpiryOnChange: true,
-    expiry: 30,
+    expiry: 28,
   }),
   max: 1000,
   handler: (req, res, next) => {
